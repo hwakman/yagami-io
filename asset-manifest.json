@@ -1,0 +1,18 @@
+{
+  "main.css": "/yagami-oi/static/css/main.30595e1d.chunk.css",
+  "main.js": "/yagami-oi/static/js/main.4df5a3de.chunk.js",
+  "main.js.map": "/yagami-oi/static/js/main.4df5a3de.chunk.js.map",
+  "static/css/1.275ace4f.chunk.css": "/yagami-oi/static/css/1.275ace4f.chunk.css",
+  "static/js/1.874addbe.chunk.js": "/yagami-oi/static/js/1.874addbe.chunk.js",
+  "static/js/1.874addbe.chunk.js.map": "/yagami-oi/static/js/1.874addbe.chunk.js.map",
+  "runtime~main.js": "/yagami-oi/static/js/runtime~main.daab5e04.js",
+  "runtime~main.js.map": "/yagami-oi/static/js/runtime~main.daab5e04.js.map",
+  "static/media/chara.jpg": "/yagami-oi/static/media/chara.92abbc54.jpg",
+  "static/media/baner.jpg": "/yagami-oi/static/media/baner.bf8712cb.jpg",
+  "static/media/yagami.jpg": "/yagami-oi/static/media/yagami.d32ed0cd.jpg",
+  "static/css/main.30595e1d.chunk.css.map": "/yagami-oi/static/css/main.30595e1d.chunk.css.map",
+  "static/css/1.275ace4f.chunk.css.map": "/yagami-oi/static/css/1.275ace4f.chunk.css.map",
+  "index.html": "/yagami-oi/index.html",
+  "precache-manifest.ed284e4672057e7460fbb5deb9b1e27c.js": "/yagami-oi/precache-manifest.ed284e4672057e7460fbb5deb9b1e27c.js",
+  "service-worker.js": "/yagami-oi/service-worker.js"
+}
